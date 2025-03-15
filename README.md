@@ -6,7 +6,14 @@ My Telegram Channel
 
 ### Languages and Tools
 
-![Html]([https://avatars.mds.yandex.net/i?id=13aeb42fc556be349abeb6d41443f52c_l-7665183-images-thumbs&n=13](https://img.shields.io/badge/any_text-you_like-blue))
+![Html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![Css](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![Js](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![BootStrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 Follow Me
 
