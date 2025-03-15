@@ -5,6 +5,7 @@
 My Telegram Channel
 
 ### Languages and Tools
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
 
 
 Follow Me
