@@ -6,7 +6,7 @@ My Telegram Channel
 
 ### Languages and Tools
 
-![Html width="200"](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![Html] width="200" (https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 ![Css](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 ![Js](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
