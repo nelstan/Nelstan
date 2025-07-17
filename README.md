@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Россия
 * 🖥️  See my portfolio at [https://github.com/nelstan](http://github.com/nelstan)
 * ✉️  You can contact me at [probicevt@gmail.com](mailto:probicevt@gmail.com)
-* 🚀  I'm currently working on [Surf - Web-Site](http://https://github.com/nelstan/Surf-Web-Site)
+* 🚀  I'm currently working on [GhostCode]
 * 🧠  I'm learning - Vue.
 * 🤝  I'm open to collaborating on Интересные проекты. Всегда ЗА, чтобы попробовать что-то новенькое.
 * ⚡  Я довольно веселый. Очень серьезно отношусь к подставленным целям.
