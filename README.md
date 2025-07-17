@@ -1,6 +1,6 @@
 ![Header](https://i.pinimg.com/originals/cd/0a/c5/cd0ac53c65a93a2ccfabb720e1dcb0fe.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sky
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is FERLIN
 ===============================================================================================================================
 
 Я начинающий блогер и Front-end разработчик.
@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [https://github.com/nelstan](http://github.com/nelstan)
 * ✉️  You can contact me at [probicevt@gmail.com](mailto:probicevt@gmail.com)
 * 🚀  I'm currently working on [Surf - Web-Site](http://https://github.com/nelstan/Surf-Web-Site)
-* 🧠  I'm learning React - Vue.
+* 🧠  I'm learning - Vue.
 * 🤝  I'm open to collaborating on Интересные проекты. Всегда ЗА, чтобы попробовать что-то новенькое.
 * ⚡  Я довольно веселый. Очень серьезно отношусь к подставленным целям.
 
